@@ -1,0 +1,12 @@
+{
+  "name": "app-test-k8s",
+  "version": "1.0.0",
+  "description": "Application de test pour atelier Kubernetes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
