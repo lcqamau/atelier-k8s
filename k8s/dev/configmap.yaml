@@ -5,5 +5,5 @@ metadata:
 data:
   config.json: |
     {
-      "message": "Bienvenue en DEV"
+      "message": "Bienvenue en DEV ! COUCOU !"
     }
